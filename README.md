@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @onsi-arch
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👋 Hi, I’m Steve
+- 👀 I’m a Web Developer working on my way to be a Fullstack Developer soon
+- 🌱 I’m currently learning Scala, C/C++, and JavaScript
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me: request email
 
 <!---
