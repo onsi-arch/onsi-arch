@@ -10,8 +10,8 @@
     <h2>A passionate and aspiring software engineer</h2>
     <p>Currently working on freelance projects</p>
     <p>Learning Cybersecurity, Cloud AI, ML</p>
-    <p>All of my projects are available on GitHub at the momentt</a></p>
-    <p>How to reach me: <a href="mailto:onseriosteve21@gmail.com">your.email@example.com</a></p>
+    <p>All of my projects are available on GitHub at the moment </a></p>
+    <p>How to reach me: <a href="mailto:onseriosteve21@gmail.com">Email</a></p>
     <p>Happy to connect</a></p>
 
     <h3>Connect with me:</h3>
