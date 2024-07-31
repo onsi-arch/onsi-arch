@@ -13,7 +13,8 @@
 <ul>
   <li>Machine Learning</li>
   <li>Cloud Computing</li>
-  <li>Web3 Technologies</li>
+  <li>Cybersecurity</li>
+  <li>Quantum Computing</li>
 </ul>
     
   <p>How to reach me: <a href="mailto:onseriosteve21@gmail.com">Email</a></p>
