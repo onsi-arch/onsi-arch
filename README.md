@@ -6,7 +6,7 @@
    
 </head>
 <body>
-    <h1>Hi, I'm Steve 👋</h1>
+    <h1 style="text-align: center;">Hi, I'm Steve 👋</h1>
     <h2>A passionate and aspiring software engineer</h2>
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views" />    
 <h3>🌱 I'm currently learning:</h3>
